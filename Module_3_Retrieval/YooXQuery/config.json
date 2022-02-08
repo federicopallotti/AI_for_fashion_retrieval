@@ -1,0 +1,8 @@
+{
+  "part" : "Pants",
+  "category" : "lower_body",
+  "fields" : "upper",
+  "filtering" : "True",
+  "filter_for" : "pants",
+  "recall" : 10
+}

@@ -1,0 +1,17 @@
+{
+  "path" : "input_video.mp4",
+  "mode" : 2,
+  "kernel_n" : 2,
+  "threshold" : 300,
+  "parameters_mode1" : {
+    "start_pts": 0,
+    "end_pts": 3,
+    "skip": 10
+  },
+  "parameters_mode2" : {
+    "number_of_images" : 4,
+    "seconds_to_skip" : 1,
+    "sec_start_point" : 0
+  },
+  "format" : "png"
+}

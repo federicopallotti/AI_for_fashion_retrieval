@@ -1,0 +1,10 @@
+torch
+matplotlib
+torchvision
+neptune-client
+tqdm
+pandas
+cudatoolkit
+numpy
+
+

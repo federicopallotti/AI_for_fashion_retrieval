@@ -1,0 +1,9 @@
+{
+  "verbose" : "True",
+
+  "dataset" : "train",
+
+  "category" : "lower_body",
+
+  "root_dir" : "C:\\Users\\pales\\Desktop\\yu-data"
+}

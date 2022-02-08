@@ -1,0 +1,22 @@
+{
+"trained_on" :  {
+  "batch_size": 60,
+  "category": "lower_body",
+  "model_params": {
+    "lr": 0.0001,
+    "wd": 0,
+    "margin": 0.2,
+    "optimizer": "Adam",
+    "fine_tuning": "True",
+    "hard_negatives": "True"
+    },
+  "num_workers": 4
+},
+  "test_parameters" : {
+        "batch_size": 100,
+        "num_workers": 4,
+        "iterations": 300,
+        "category": "lower_body",
+        "start" : 1600
+  }
+}
