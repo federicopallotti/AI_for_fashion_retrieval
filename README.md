@@ -11,6 +11,9 @@ The pipeline is developed as follows:
 
 4) Module 4 : Virtual Try-on using a Geometrical Transformation Algorithm.
 
+<img width="1718" alt="Schermata 2022-05-19 alle 14 15 59" src="https://user-images.githubusercontent.com/77103965/169291102-1543879a-4c3e-4ebb-a96a-583953d87e4d.png">
+
+
 The trained weights are in "Module 3 Retrieval/YooxQuery/data".
 
 Update of 11/09: Added the code for modifying the originan dataset (in "Module 3 Retrieval/ExtractDatasetParsed") replacing the full body images with the parsed relative item.
